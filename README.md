@@ -1,4 +1,4 @@
-# BotBola8discord
+# Bot de bola8 para discord
 Bot de bola8 para discord, feito com javascript
 Primeira coisa a se fazer é criar o bot, primeiramente, faça login no seu discord (discord web), depois, va para https://discord.com/developers/applications e clique
 em "New aplication", no canto superior direito, escreva o nome do bot, clique em "bot" , "add bot" (obs: o nome do seu bot nao pode ja ter sido usado), abaixo de "username" clique em "click to reveal token", depois em "copy" (guarde esse token!!!). Para adicionar o bot no server, clique em OAuth2, marque a caixa "bot", copie o link e cole em seu navegador, depois só escolher em qual server o bot será adicionado.
